@@ -39,6 +39,6 @@ public class Developer {
 	}
 
 	public String toString() {
-		return name+ " " +salary+ " "+age;
+		return name+ "--" +salary+ "--"+age;
 	}
 }
