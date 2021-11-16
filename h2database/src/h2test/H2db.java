@@ -9,7 +9,7 @@ import java.util.SortedMap;
 import java.util.TreeMap;
 
 public class H2db {
-// local change
+// local change comment from repo
 	   // JDBC driver name and database URL 
 	   static final String JDBC_DRIVER = "org.h2.Driver";   
 	   static final String DB_URL = "jdbc:h2:~/test";  
