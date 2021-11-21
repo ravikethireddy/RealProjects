@@ -11,7 +11,7 @@ public class Test {
 		m.put("Nancy",  new Integer(45));
 		m.put("george",  new Integer(38));
 		m.put("ron",  new Integer(45));
-		System.out.println("ron age -" + m.get("manas"));
+		System.out.println("ron age -" + m.get("ravi"));
 		
 		
 		if (getTrue() || getFalse()) {
