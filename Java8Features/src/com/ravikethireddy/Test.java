@@ -6,7 +6,7 @@ public class Test {
 	public static void main(String[] args) {
 		Map<String, Integer> m = new HashMap<String, Integer>();
 		m.put("bill",  new Integer(19));
-		m.put("laur",  new Integer(22));
+		m.put("laura",  new Integer(22));
 
 		m.put("Nancy",  new Integer(45));
 		m.put("george",  new Integer(38));
