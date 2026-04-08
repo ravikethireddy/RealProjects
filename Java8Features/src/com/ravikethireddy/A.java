@@ -6,6 +6,6 @@ public class A {
 	public int getNumber() {return myNum;}
 	public String getLetters() { return "A";}
 	public String getMessage() {
-		return this.getLetters() + "-" + this.getNumber();
+		return this.getLetters() + "--" + this.getNumber();
 	}
 }
