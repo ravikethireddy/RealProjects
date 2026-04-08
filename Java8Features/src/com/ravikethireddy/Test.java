@@ -8,7 +8,7 @@ public class Test {
 		m.put("bill",  new Integer(19));
 		m.put("laura",  new Integer(22));
 
-		m.put("Nanc",  new Integer(45));
+		m.put("Nancy",  new Integer(45));
 		m.put("george",  new Integer(38));
 		m.put("ron",  new Integer(45));
 		System.out.println("ron age -" + m.get("ron"));
